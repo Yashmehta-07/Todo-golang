@@ -1,17 +1,11 @@
 # Task Manager API
 
-A simple RESTful API built with Go and the `go-chi` routing library for managing tasks. It supports basic CRUD operations:
+A simple RESTful API built with Go . It supports basic CRUD operations:
 
 - **Create**: Add a new task
 - **Read**: List all tasks
 - **Update**: Update an existing task
 - **Delete**: Delete a task
-
-## Features
-
-- Add, list, update, and delete tasks.
-- Lightweight Go server using the `chi` router for handling HTTP requests.
-- JSON-based API responses.
 
 ## Endpoints
 
